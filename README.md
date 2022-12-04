@@ -41,3 +41,9 @@ The Visualization block shows how the vehicle tracks the reference path. It also
 
 Simulation stops at about 45 seconds, which is when the vehicle reaches the destination.
 
+![AutomatedParkingValetSimulinkExample_07](https://user-images.githubusercontent.com/81799459/205506403-71eee681-9b34-46db-8dc4-30851ca9cd62.png)
+
+### Conclusions
+This example shows how to implement an automated parking valet in Simulink.
+
+
