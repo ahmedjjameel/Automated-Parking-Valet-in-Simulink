@@ -46,4 +46,10 @@ Simulation stops at about 45 seconds, which is when the vehicle reaches the dest
 ### Conclusions
 This example shows how to implement an automated parking valet in Simulink.
 
+#### References
+[1] Buehler, Martin, Karl Iagnemma, and Sanjiv Singh. The DARPA Urban Challenge: Autonomous Vehicles in City Traffic (1st ed.). Springer Publishing Company, Incorporated, 2009.
+
+[2] Lepetic, Marko, Gregor Klancar, Igor Skrjanc, Drago Matko, and Bostjan Potocnik, "Time Optimal Path Planning Considering Acceleration Limits." Robotics and Autonomous Systems, Volume 45, Issues 3-4, 2003, pp. 199-210.
+
+[3] Hoffmann, Gabriel M., Claire J. Tomlin, Michael Montemerlo, and Sebastian Thrun. "Autonomous Automobile Trajectory Tracking for Off-Road Driving: Controller Design, Experimental Validation and Racing." American Control Conference, 2007, pp. 2296-2301.
 
